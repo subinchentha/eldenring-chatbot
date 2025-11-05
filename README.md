@@ -13,3 +13,9 @@ Supports both **offline** (Ollama + SentenceTransformers) and **online** (OpenAI
 - 💾 **Offline Mode** — Works fully without internet using Ollama.
 
 ---
+
+## 📸 Demo
+
+| Terminal Version | Gradio Web UI |
+|------------------|----------------|
+| ![Terminal Chat](demo/terminal_chat.png) | ![Web UI](demo/gradio_ui.png) |

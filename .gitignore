@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore large data files
+*.csv
+*.faiss
+*.pkl
+*.bin
+__pycache__/
+
+# Ignore IDE stuff
+.vscode/
+.idea/
+.DS_Store
